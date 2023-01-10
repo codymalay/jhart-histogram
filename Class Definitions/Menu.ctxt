@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Menu\ here.\r\n\r\n\ @author\ Cody\ Malay\r\n\ @version\ 2022.12.03\r\n
+comment1.params=name
+comment1.target=Menu(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Menu\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ name\ getter\r\n\r\n\ @return\ \ \ \ name\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getAppetizers()
+comment3.text=\r\n\ appetizers\ getter\r\n\r\n\ @return\ \ \ \ appetizers\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getEntrees()
+comment4.text=\r\n\ entrees\ getter\r\n\r\n\ @return\ \ \ \ entrees\r\n
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment5.text=\r\n\ name\ setter\r\n\r\n\ @param\ \ \ \ name\r\n
+comment6.params=appetizers
+comment6.target=void\ setAppetizers(java.util.ArrayList)
+comment6.text=\r\n\ appetizers\ setter\r\n\r\n\ @param\ \ \ \ appetizers\r\n
+comment7.params=entrees
+comment7.target=void\ setEntrees(java.util.ArrayList)
+comment7.text=\r\n\ entrees\ setter\r\n\r\n\ @param\ \ \ \ entrees\r\n
+numComments=8
